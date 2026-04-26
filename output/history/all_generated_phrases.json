@@ -1,0 +1,35 @@
+{
+  "phrases": [
+    {
+      "english": "Breathe in, breathe out.",
+      "german": "Atme ein, atme aus.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-26T11:11:38.620087"
+    },
+    {
+      "english": "Just be, right now.",
+      "german": "Sei einfach, jetzt hier.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-26T11:11:38.620095"
+    },
+    {
+      "english": "Feel the moment, fully.",
+      "german": "Fühle den Moment, ganz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-26T11:11:38.620097"
+    },
+    {
+      "english": "Quiet mind, calm heart.",
+      "german": "Stiller Geist, ruhiges Herz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-26T11:11:38.620098"
+    },
+    {
+      "english": "One breath, at a time.",
+      "german": "Ein Atemzug, nach dem andern.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-26T11:11:38.620099"
+    }
+  ],
+  "last_updated": "2026-04-26T11:11:38.620101"
+}
