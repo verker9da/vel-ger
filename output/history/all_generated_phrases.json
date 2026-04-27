@@ -119,7 +119,37 @@
       "german": "Dein Einsatz, dein Lohn.",
       "category": "Motivation",
       "generated_at": "2026-04-26T21:02:54.633888"
+    },
+    {
+      "english": "Find your center, breathe in.",
+      "german": "Finde deine Mitte, atme ein.",
+      "category": "Balance",
+      "generated_at": "2026-04-27T00:00:29.980530"
+    },
+    {
+      "english": "Steady hands, calm mind.",
+      "german": "Feste Hände, ruhiger Geist.",
+      "category": "Balance",
+      "generated_at": "2026-04-27T00:00:29.980540"
+    },
+    {
+      "english": "Slow down, feel the ground.",
+      "german": "Langsam, spüre den Boden.",
+      "category": "Balance",
+      "generated_at": "2026-04-27T00:00:29.980542"
+    },
+    {
+      "english": "One step, then another.",
+      "german": "Ein Schritt, dann noch einer.",
+      "category": "Balance",
+      "generated_at": "2026-04-27T00:00:29.980543"
+    },
+    {
+      "english": "Hold steady, don't sway.",
+      "german": "Bleib ruhig, schwanke nicht.",
+      "category": "Balance",
+      "generated_at": "2026-04-27T00:00:29.980544"
     }
   ],
-  "last_updated": "2026-04-26T21:02:54.633890"
+  "last_updated": "2026-04-27T00:00:29.980546"
 }
