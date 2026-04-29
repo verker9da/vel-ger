@@ -389,7 +389,37 @@
       "german": "Pure Freude, ja!",
       "category": "Joy",
       "generated_at": "2026-04-29T18:04:36.044354"
+    },
+    {
+      "english": "So happy, it's wonderful!",
+      "german": "So froh, das ist toll!",
+      "category": "Joy",
+      "generated_at": "2026-04-29T20:20:03.561564"
+    },
+    {
+      "english": "This is pure joy, wow!",
+      "german": "Das ist reine Freude, wow!",
+      "category": "Joy",
+      "generated_at": "2026-04-29T20:20:03.561574"
+    },
+    {
+      "english": "Feeling great, truly amazing!",
+      "german": "Fühle mich gut, wirklich super!",
+      "category": "Joy",
+      "generated_at": "2026-04-29T20:20:03.561575"
+    },
+    {
+      "english": "What a good feeling, yes!",
+      "german": "Was für ein gutes Gefühl, ja!",
+      "category": "Joy",
+      "generated_at": "2026-04-29T20:20:03.561577"
+    },
+    {
+      "english": "This makes me smile, so much!",
+      "german": "Das bringt mich zum Lächeln, sehr!",
+      "category": "Joy",
+      "generated_at": "2026-04-29T20:20:03.561578"
     }
   ],
-  "last_updated": "2026-04-29T18:04:36.044356"
+  "last_updated": "2026-04-29T20:20:03.561579"
 }
