@@ -449,7 +449,37 @@
       "german": "Zögere nicht, fang einfach an.",
       "category": "Courage",
       "generated_at": "2026-04-30T07:35:30.848968"
+    },
+    {
+      "english": "You got this, breathe deep.",
+      "german": "Du schaffst das, tief atmen.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T09:26:56.839003"
+    },
+    {
+      "english": "Just try, it's okay.",
+      "german": "Versuch's einfach, es ist okay.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T09:26:56.839012"
+    },
+    {
+      "english": "Mistakes are learning, embrace them.",
+      "german": "Fehler sind Lernen, nimm sie an.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T09:26:56.839014"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "german": "Sprich laut, deine Stimme zählt.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T09:26:56.839015"
+    },
+    {
+      "english": "Keep going, you're improving.",
+      "german": "Mach weiter, du verbesserst dich.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T09:26:56.839016"
     }
   ],
-  "last_updated": "2026-04-30T07:35:30.848970"
+  "last_updated": "2026-04-30T09:26:56.839018"
 }
