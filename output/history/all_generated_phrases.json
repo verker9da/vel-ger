@@ -509,7 +509,37 @@
       "german": "Du lernst dazu, wachse jeden Tag.",
       "category": "Confidence",
       "generated_at": "2026-04-30T17:53:09.114331"
+    },
+    {
+      "english": "Be brave, little one.",
+      "german": "Sei mutig, Kleines.",
+      "category": "Courage",
+      "generated_at": "2026-04-30T20:19:01.422907"
+    },
+    {
+      "english": "Take a deep breath, then go.",
+      "german": "Atme tief ein, dann geh.",
+      "category": "Courage",
+      "generated_at": "2026-04-30T20:19:01.422917"
+    },
+    {
+      "english": "You can do this, I believe.",
+      "german": "Du schaffst das, ich glaube.",
+      "category": "Courage",
+      "generated_at": "2026-04-30T20:19:01.422918"
+    },
+    {
+      "english": "Face your fears, head on.",
+      "german": "Stell dich deinen Ängsten.",
+      "category": "Courage",
+      "generated_at": "2026-04-30T20:19:01.422920"
+    },
+    {
+      "english": "Every step forward counts.",
+      "german": "Jeder Schritt zählt.",
+      "category": "Courage",
+      "generated_at": "2026-04-30T20:19:01.422921"
     }
   ],
-  "last_updated": "2026-04-30T17:53:09.114333"
+  "last_updated": "2026-04-30T20:19:01.422922"
 }
