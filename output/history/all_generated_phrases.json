@@ -599,7 +599,37 @@
       "german": "Fühle mich großartig, absolut.",
       "category": "Joy",
       "generated_at": "2026-05-01T07:19:15.962014"
+    },
+    {
+      "english": "My heart, beats for you.",
+      "german": "Mein Herz, schlägt für dich.",
+      "category": "Love",
+      "generated_at": "2026-05-01T08:31:09.893848"
+    },
+    {
+      "english": "You are, my everything.",
+      "german": "Du bist, mein Ein und Alles.",
+      "category": "Love",
+      "generated_at": "2026-05-01T08:31:09.893856"
+    },
+    {
+      "english": "I miss you, so much.",
+      "german": "Ich vermisse dich, sehr.",
+      "category": "Love",
+      "generated_at": "2026-05-01T08:31:09.893857"
+    },
+    {
+      "english": "Thinking of you, always.",
+      "german": "Ich denke an dich, immer.",
+      "category": "Love",
+      "generated_at": "2026-05-01T08:31:09.893858"
+    },
+    {
+      "english": "You make me, happy.",
+      "german": "Du machst mich, glücklich.",
+      "category": "Love",
+      "generated_at": "2026-05-01T08:31:09.893859"
     }
   ],
-  "last_updated": "2026-05-01T07:19:15.962016"
+  "last_updated": "2026-05-01T08:31:09.893861"
 }
