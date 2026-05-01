@@ -659,7 +659,37 @@
       "german": "Hör gut zu, ehrlich.",
       "category": "Kindness",
       "generated_at": "2026-05-01T16:15:43.489591"
+    },
+    {
+      "english": "Laughing out loud, yes!",
+      "german": "Laut lachen, ja!",
+      "category": "Joy",
+      "generated_at": "2026-05-01T19:57:38.295681"
+    },
+    {
+      "english": "What a delight, really.",
+      "german": "Was für eine Freude, wirklich.",
+      "category": "Joy",
+      "generated_at": "2026-05-01T19:57:38.295691"
+    },
+    {
+      "english": "This makes me smile.",
+      "german": "Das bringt mich zum Lächeln.",
+      "category": "Joy",
+      "generated_at": "2026-05-01T19:57:38.295692"
+    },
+    {
+      "english": "Pure happiness, so sweet.",
+      "german": "Pures Glück, so süß.",
+      "category": "Joy",
+      "generated_at": "2026-05-01T19:57:38.295704"
+    },
+    {
+      "english": "Everything is perfect, now.",
+      "german": "Alles ist perfekt, jetzt.",
+      "category": "Joy",
+      "generated_at": "2026-05-01T19:57:38.295705"
     }
   ],
-  "last_updated": "2026-05-01T16:15:43.489593"
+  "last_updated": "2026-05-01T19:57:38.295706"
 }
