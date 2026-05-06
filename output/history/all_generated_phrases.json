@@ -1139,7 +1139,37 @@
       "german": "Mit Entschlossenheit, siege ich.",
       "category": "Strength",
       "generated_at": "2026-05-05T20:16:14.393531"
+    },
+    {
+      "english": "Breathe deep, feel calm.",
+      "german": "Tief atmen, ruhig fühlen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-06T18:06:52.186697"
+    },
+    {
+      "english": "Quiet mind, clear thoughts.",
+      "german": "Stiller Geist, klare Gedanken.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-06T18:06:52.186706"
+    },
+    {
+      "english": "Find your center, stay grounded.",
+      "german": "Finde dein Zentrum, bleib geerdet.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-06T18:06:52.186708"
+    },
+    {
+      "english": "Inner peace, always within.",
+      "german": "Innerer Frieden, immer in dir.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-06T18:06:52.186709"
+    },
+    {
+      "english": "Stillness brings understanding.",
+      "german": "Stille bringt Verständnis.",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-06T18:06:52.186710"
     }
   ],
-  "last_updated": "2026-05-05T20:16:14.393533"
+  "last_updated": "2026-05-06T18:06:52.186712"
 }
