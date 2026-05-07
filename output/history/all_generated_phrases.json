@@ -1199,7 +1199,37 @@
       "german": "Fühle mich ruhig, fühle mich toll.",
       "category": "Happiness",
       "generated_at": "2026-05-06T20:55:01.294187"
+    },
+    {
+      "english": "Breathe in, breathe out, slowly.",
+      "german": "Atme ein, atme aus, langsam.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-07T10:11:25.001906"
+    },
+    {
+      "english": "Feel the ground, beneath you.",
+      "german": "Fühle den Boden, unter dir.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-07T10:11:25.001915"
+    },
+    {
+      "english": "Listen closely, to your breath.",
+      "german": "Höre genau, auf deinen Atem.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-07T10:11:25.001916"
+    },
+    {
+      "english": "Be present, right here, now.",
+      "german": "Sei präsent, genau hier, jetzt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-07T10:11:25.001918"
+    },
+    {
+      "english": "Let go, of worries, today.",
+      "german": "Lass los, von Sorgen, heute.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-07T10:11:25.001919"
     }
   ],
-  "last_updated": "2026-05-06T20:55:01.294189"
+  "last_updated": "2026-05-07T10:11:25.001920"
 }
