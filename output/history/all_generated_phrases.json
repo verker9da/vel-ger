@@ -1259,7 +1259,37 @@
       "german": "Ich bin dankbar, wirklich.",
       "category": "Gratitude",
       "generated_at": "2026-05-07T18:16:58.701461"
+    },
+    {
+      "english": "Your progress, is my joy.",
+      "german": "Dein Fortschritt, ist meine Freude.",
+      "category": "Success",
+      "generated_at": "2026-05-08T05:48:48.026977"
+    },
+    {
+      "english": "Speak clearly, with confidence.",
+      "german": "Sprich klar, mit Selbstvertrauen.",
+      "category": "Success",
+      "generated_at": "2026-05-08T05:48:48.026986"
+    },
+    {
+      "english": "New words, new worlds.",
+      "german": "Neue Wörter, neue Welten.",
+      "category": "Success",
+      "generated_at": "2026-05-08T05:48:48.026987"
+    },
+    {
+      "english": "Practice daily, see results.",
+      "german": "Täglich üben, Ergebnisse sehen.",
+      "category": "Success",
+      "generated_at": "2026-05-08T05:48:48.026988"
+    },
+    {
+      "english": "Understand more, every day.",
+      "german": "Mehr verstehen, jeden Tag.",
+      "category": "Success",
+      "generated_at": "2026-05-08T05:48:48.026989"
     }
   ],
-  "last_updated": "2026-05-07T18:16:58.701463"
+  "last_updated": "2026-05-08T05:48:48.026991"
 }
