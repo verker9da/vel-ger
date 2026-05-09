@@ -1319,7 +1319,37 @@
       "german": "Ein wahrer Freund, immer.",
       "category": "Friendship",
       "generated_at": "2026-05-09T07:28:11.320393"
+    },
+    {
+      "english": "You can do it, believe.",
+      "german": "Du schaffst das, glaub daran.",
+      "category": "Motivation",
+      "generated_at": "2026-05-09T15:38:40.030707"
+    },
+    {
+      "english": "Keep going, stay strong.",
+      "german": "Mach weiter, bleib stark.",
+      "category": "Motivation",
+      "generated_at": "2026-05-09T15:38:40.030716"
+    },
+    {
+      "english": "Every word counts, really.",
+      "german": "Jedes Wort zählt, wirklich.",
+      "category": "Motivation",
+      "generated_at": "2026-05-09T15:38:40.030717"
+    },
+    {
+      "english": "Practice makes perfect, yes.",
+      "german": "Übung macht Meister, ja.",
+      "category": "Motivation",
+      "generated_at": "2026-05-09T15:38:40.030718"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "german": "Langsam und stetig, gewinnt.",
+      "category": "Motivation",
+      "generated_at": "2026-05-09T15:38:40.030719"
     }
   ],
-  "last_updated": "2026-05-09T07:28:11.320395"
+  "last_updated": "2026-05-09T15:38:40.030721"
 }
