@@ -1409,7 +1409,37 @@
       "german": "Jeder Tag, eine Chance für Freude.",
       "category": "Happiness",
       "generated_at": "2026-05-10T15:41:04.504044"
+    },
+    {
+      "english": "Slow and steady, wins the race.",
+      "german": "Langsam und stetig, gewinnt das Rennen.",
+      "category": "Patience",
+      "generated_at": "2026-05-11T21:06:19.769186"
+    },
+    {
+      "english": "Little by little, it all adds up.",
+      "german": "Stück für Stück, zählt alles.",
+      "category": "Patience",
+      "generated_at": "2026-05-11T21:06:19.769195"
+    },
+    {
+      "english": "Patience, my friend, brings reward.",
+      "german": "Geduld, mein Freund, bringt Lohn.",
+      "category": "Patience",
+      "generated_at": "2026-05-11T21:06:19.769197"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "german": "Rom wurde nicht, an einem Tag gebaut.",
+      "category": "Patience",
+      "generated_at": "2026-05-11T21:06:19.769198"
+    },
+    {
+      "english": "Good things, take time.",
+      "german": "Gute Dinge, brauchen Zeit.",
+      "category": "Patience",
+      "generated_at": "2026-05-11T21:06:19.769199"
     }
   ],
-  "last_updated": "2026-05-10T15:41:04.504045"
+  "last_updated": "2026-05-11T21:06:19.769200"
 }
