@@ -1499,7 +1499,37 @@
       "german": "Es war ein Fehler, wirklich.",
       "category": "Forgiveness",
       "generated_at": "2026-05-12T10:30:53.092905"
+    },
+    {
+      "english": "To learn German, with joy.",
+      "german": "Um Deutsch zu lernen, mit Freude.",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T20:55:48.644493"
+    },
+    {
+      "english": "For travel, in Germany.",
+      "german": "Für Reisen, in Deutschland.",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T20:55:48.644505"
+    },
+    {
+      "english": "To speak, with confidence.",
+      "german": "Um zu sprechen, mit Zuversicht.",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T20:55:48.644506"
+    },
+    {
+      "english": "For work, opportunities.",
+      "german": "Für Arbeit, Möglichkeiten.",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T20:55:48.644507"
+    },
+    {
+      "english": "To understand, culture.",
+      "german": "Um zu verstehen, Kultur.",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T20:55:48.644508"
     }
   ],
-  "last_updated": "2026-05-12T10:30:53.092907"
+  "last_updated": "2026-05-14T20:55:48.644510"
 }
