@@ -1529,7 +1529,37 @@
       "german": "Um zu verstehen, Kultur.",
       "category": "Purpose",
       "generated_at": "2026-05-14T20:55:48.644508"
+    },
+    {
+      "english": "Let's meet soon, okay?",
+      "german": "Treffen wir uns bald, ja?",
+      "category": "Friendship",
+      "generated_at": "2026-05-15T18:15:12.571325"
+    },
+    {
+      "english": "You always make me laugh.",
+      "german": "Du bringst mich immer zum Lachen.",
+      "category": "Friendship",
+      "generated_at": "2026-05-15T18:15:12.571332"
+    },
+    {
+      "english": "Glad we're friends.",
+      "german": "Froh, dass wir Freunde sind.",
+      "category": "Friendship",
+      "generated_at": "2026-05-15T18:15:12.571334"
+    },
+    {
+      "english": "Friends for life.",
+      "german": "Freunde fürs Leben.",
+      "category": "Friendship",
+      "generated_at": "2026-05-15T18:15:12.571335"
+    },
+    {
+      "english": "You are a good person.",
+      "german": "Du bist ein guter Mensch.",
+      "category": "Friendship",
+      "generated_at": "2026-05-15T18:15:12.571336"
     }
   ],
-  "last_updated": "2026-05-14T20:55:48.644510"
+  "last_updated": "2026-05-15T18:15:12.571338"
 }
