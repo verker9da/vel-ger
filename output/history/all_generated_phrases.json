@@ -1559,7 +1559,37 @@
       "german": "Du bist ein guter Mensch.",
       "category": "Friendship",
       "generated_at": "2026-05-15T18:15:12.571336"
+    },
+    {
+      "english": "Mistakes, are lessons learned.",
+      "german": "Fehler, sind Lektionen.",
+      "category": "Growth",
+      "generated_at": "2026-05-16T16:13:17.252198"
+    },
+    {
+      "english": "Practice makes progress.",
+      "german": "Übung macht Fortschritt.",
+      "category": "Growth",
+      "generated_at": "2026-05-16T16:13:17.252209"
+    },
+    {
+      "english": "Keep going, don't stop.",
+      "german": "Mach weiter, hör nicht auf.",
+      "category": "Growth",
+      "generated_at": "2026-05-16T16:13:17.252210"
+    },
+    {
+      "english": "Small steps, big journey.",
+      "german": "Kleine Schritte, große Reise.",
+      "category": "Growth",
+      "generated_at": "2026-05-16T16:13:17.252212"
+    },
+    {
+      "english": "New words, new world.",
+      "german": "Neue Wörter, neue Welt.",
+      "category": "Growth",
+      "generated_at": "2026-05-16T16:13:17.252213"
     }
   ],
-  "last_updated": "2026-05-15T18:15:12.571338"
+  "last_updated": "2026-05-16T16:13:17.252214"
 }
