@@ -1619,7 +1619,37 @@
       "german": "Ruhiges Herz, friedvolle Seele.",
       "category": "Inner Peace",
       "generated_at": "2026-05-17T10:09:26.359392"
+    },
+    {
+      "english": "Let's, start fresh again.",
+      "german": "Lass uns, neu anfangen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-17T22:09:56.121340"
+    },
+    {
+      "english": "I ask, for your pardon.",
+      "german": "Ich bitte, um Verzeihung.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-17T22:09:56.121351"
+    },
+    {
+      "english": "Forget about it, please.",
+      "german": "Vergiss es, bitte.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-17T22:09:56.121352"
+    },
+    {
+      "english": "My apologies, sincerely.",
+      "german": "Meine Entschuldigung, aufrichtig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-17T22:09:56.121353"
+    },
+    {
+      "english": "We can, move past this.",
+      "german": "Wir können, das hinter uns lassen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-17T22:09:56.121354"
     }
   ],
-  "last_updated": "2026-05-17T10:09:26.359393"
+  "last_updated": "2026-05-17T22:09:56.121356"
 }
