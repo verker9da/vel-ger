@@ -1649,7 +1649,37 @@
       "german": "Wir können, das hinter uns lassen.",
       "category": "Forgiveness",
       "generated_at": "2026-05-17T22:09:56.121354"
+    },
+    {
+      "english": "You helped me a lot.",
+      "german": "Du hast mir sehr geholfen.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-18T19:14:34.118781"
+    },
+    {
+      "english": "This means a lot.",
+      "german": "Das bedeutet mir viel.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-18T19:14:34.118791"
+    },
+    {
+      "english": "Thanks for your support.",
+      "german": "Danke für deine Unterstützung.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-18T19:14:34.118793"
+    },
+    {
+      "english": "What a nice gesture.",
+      "german": "Was für eine nette Geste.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-18T19:14:34.118794"
+    },
+    {
+      "english": "I owe you one.",
+      "german": "Ich bin dir etwas schuldig.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-18T19:14:34.118795"
     }
   ],
-  "last_updated": "2026-05-17T22:09:56.121356"
+  "last_updated": "2026-05-18T19:14:34.118797"
 }
