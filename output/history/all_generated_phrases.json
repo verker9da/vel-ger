@@ -1679,7 +1679,37 @@
       "german": "Ich bin dir etwas schuldig.",
       "category": "Gratitude",
       "generated_at": "2026-05-18T19:14:34.118795"
+    },
+    {
+      "english": "For friends, from Berlin.",
+      "german": "Für Freunde, aus Berlin.",
+      "category": "Purpose",
+      "generated_at": "2026-05-20T20:37:22.070171"
+    },
+    {
+      "english": "To connect, with locals.",
+      "german": "Um zu verbinden, mit Einheimischen.",
+      "category": "Purpose",
+      "generated_at": "2026-05-20T20:37:22.070185"
+    },
+    {
+      "english": "For study, abroad.",
+      "german": "Für ein Studium, im Ausland.",
+      "category": "Purpose",
+      "generated_at": "2026-05-20T20:37:22.070187"
+    },
+    {
+      "english": "To read, German books.",
+      "german": "Um deutsche Bücher zu lesen.",
+      "category": "Purpose",
+      "generated_at": "2026-05-20T20:37:22.070188"
+    },
+    {
+      "english": "For a new, life.",
+      "german": "Für ein neues, Leben.",
+      "category": "Purpose",
+      "generated_at": "2026-05-20T20:37:22.070189"
     }
   ],
-  "last_updated": "2026-05-18T19:14:34.118797"
+  "last_updated": "2026-05-20T20:37:22.070191"
 }
