@@ -1949,7 +1949,37 @@
       "german": "Übe weiter, du schaffst es.",
       "category": "Growth",
       "generated_at": "2026-07-23T17:26:48.922747"
+    },
+    {
+      "english": "Keep going, don't give up.",
+      "german": "Mach weiter, gib nicht auf.",
+      "category": "Patience",
+      "generated_at": "2026-07-23T20:12:24.344383"
+    },
+    {
+      "english": "Be patient, it will happen.",
+      "german": "Sei geduldig, es wird passieren.",
+      "category": "Patience",
+      "generated_at": "2026-07-23T20:12:24.344406"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "german": "Warte auf den richtigen Moment.",
+      "category": "Patience",
+      "generated_at": "2026-07-23T20:12:24.344407"
+    },
+    {
+      "english": "Trust the process, patiently.",
+      "german": "Vertraue dem Prozess, geduldig.",
+      "category": "Patience",
+      "generated_at": "2026-07-23T20:12:24.344408"
+    },
+    {
+      "english": "Little by little, progress is made.",
+      "german": "Nach und nach, wird Fortschritt erzielt.",
+      "category": "Patience",
+      "generated_at": "2026-07-23T20:12:24.344409"
     }
   ],
-  "last_updated": "2026-07-23T17:26:48.922749"
+  "last_updated": "2026-07-23T20:12:24.344411"
 }
