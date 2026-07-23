@@ -1769,7 +1769,37 @@
       "german": "Atme tief durch, entspanne dich.",
       "category": "Positive Life",
       "generated_at": "2026-07-23T04:20:37.861958"
+    },
+    {
+      "english": "You can do this, believe it.",
+      "german": "Du schaffst das, glaub es.",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T06:26:58.280435"
+    },
+    {
+      "english": "Learning is a journey, enjoy it.",
+      "german": "Lernen ist eine Reise, genieße sie.",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T06:26:58.280446"
+    },
+    {
+      "english": "Every word counts, speak it.",
+      "german": "Jedes Wort zählt, sprich es.",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T06:26:58.280448"
+    },
+    {
+      "english": "Mistakes happen, learn from them.",
+      "german": "Fehler passieren, lerne daraus.",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T06:26:58.280449"
+    },
+    {
+      "english": "Practice makes progress, not perfect.",
+      "german": "Übung macht Fortschritt, nicht Perfektion.",
+      "category": "Confidence",
+      "generated_at": "2026-07-23T06:26:58.280450"
     }
   ],
-  "last_updated": "2026-07-23T04:20:37.861960"
+  "last_updated": "2026-07-23T06:26:58.280452"
 }
