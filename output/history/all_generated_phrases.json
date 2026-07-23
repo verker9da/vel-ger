@@ -1829,7 +1829,37 @@
       "german": "Glaub an dich, du bist stark.",
       "category": "Courage",
       "generated_at": "2026-07-23T13:35:15.237228"
+    },
+    {
+      "english": "Tomorrow is a new chance.",
+      "german": "Morgen ist eine neue Chance.",
+      "category": "Hope",
+      "generated_at": "2026-07-23T15:06:09.260116"
+    },
+    {
+      "english": "Keep moving forward, slowly.",
+      "german": "Geh weiter vorwärts, langsam.",
+      "category": "Hope",
+      "generated_at": "2026-07-23T15:06:09.260124"
+    },
+    {
+      "english": "It will get better, soon.",
+      "german": "Es wird besser, bald.",
+      "category": "Hope",
+      "generated_at": "2026-07-23T15:06:09.260125"
+    },
+    {
+      "english": "There is always light.",
+      "german": "Es gibt immer Licht.",
+      "category": "Hope",
+      "generated_at": "2026-07-23T15:06:09.260126"
+    },
+    {
+      "english": "Never give up, hope.",
+      "german": "Gib niemals auf, Hoffnung.",
+      "category": "Hope",
+      "generated_at": "2026-07-23T15:06:09.260128"
     }
   ],
-  "last_updated": "2026-07-23T13:35:15.237230"
+  "last_updated": "2026-07-23T15:06:09.260129"
 }
