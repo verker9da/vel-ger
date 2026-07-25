@@ -2099,7 +2099,37 @@
       "german": "Sanfter Atem, ein beruhigender Fluss.",
       "category": "Inner Peace",
       "generated_at": "2026-07-24T22:57:01.268693"
+    },
+    {
+      "english": "I appreciate, your help.",
+      "german": "Ich schätze, deine Hilfe.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T04:16:13.853482"
+    },
+    {
+      "english": "That's very kind, of you.",
+      "german": "Das ist sehr nett, von dir.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T04:16:13.853490"
+    },
+    {
+      "english": "I'm so grateful, really.",
+      "german": "Ich bin so dankbar, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T04:16:13.853492"
+    },
+    {
+      "english": "You're a lifesaver, thanks!",
+      "german": "Du bist ein Retter, danke!",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T04:16:13.853493"
+    },
+    {
+      "english": "This means a lot, thank you.",
+      "german": "Das bedeutet viel, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-25T04:16:13.853494"
     }
   ],
-  "last_updated": "2026-07-24T22:57:01.268695"
+  "last_updated": "2026-07-25T04:16:13.853496"
 }
