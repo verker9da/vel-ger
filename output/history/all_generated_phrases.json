@@ -2159,7 +2159,37 @@
       "german": "Unbeugsamer Geist, bewegt Berge.",
       "category": "Strength",
       "generated_at": "2026-07-25T22:48:43.803849"
+    },
+    {
+      "english": "I'm sorry, truly.",
+      "german": "Es tut mir leid, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-26T04:32:06.698814"
+    },
+    {
+      "english": "Please, forgive me.",
+      "german": "Bitte, vergib mir.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-26T04:32:06.698822"
+    },
+    {
+      "english": "I regret my actions.",
+      "german": "Ich bedauere mein Handeln.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-26T04:32:06.698823"
+    },
+    {
+      "english": "Can you accept my apology?",
+      "german": "Kannst du meine Entschuldigung annehmen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-26T04:32:06.698824"
+    },
+    {
+      "english": "It was my fault.",
+      "german": "Das war mein Fehler.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-26T04:32:06.698826"
     }
   ],
-  "last_updated": "2026-07-25T22:48:43.803851"
+  "last_updated": "2026-07-26T04:32:06.698827"
 }
