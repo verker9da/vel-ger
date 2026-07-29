@@ -2429,7 +2429,37 @@
       "german": "Setz dir ein Ziel, arbeite jetzt, feier später.",
       "category": "Success",
       "generated_at": "2026-07-28T22:54:29.627063"
+    },
+    {
+      "english": "Try a new idea, today, just once.",
+      "german": "Teste eine neue Idee, heute, nur einmal.",
+      "category": "Creativity",
+      "generated_at": "2026-07-29T04:18:01.685854"
+    },
+    {
+      "english": "Sketch quickly, then refine, with patience.",
+      "german": "Schnell skizzieren, dann verfeinern, mit Geduld.",
+      "category": "Creativity",
+      "generated_at": "2026-07-29T04:18:01.685864"
+    },
+    {
+      "english": "Make mistakes, learn fast, keep going.",
+      "german": "Fehler machen, schnell lernen, weitermachen.",
+      "category": "Creativity",
+      "generated_at": "2026-07-29T04:18:01.685866"
+    },
+    {
+      "english": "Combine two ideas, see what happens.",
+      "german": "Zwei Ideen verbinden, mal schauen, was wird.",
+      "category": "Creativity",
+      "generated_at": "2026-07-29T04:18:01.685867"
+    },
+    {
+      "english": "Ask why, pause, then answer creatively.",
+      "german": "Frag warum, kurz pausieren, dann kreativ antworten.",
+      "category": "Creativity",
+      "generated_at": "2026-07-29T04:18:01.685869"
     }
   ],
-  "last_updated": "2026-07-28T22:54:29.627065"
+  "last_updated": "2026-07-29T04:18:01.685871"
 }
