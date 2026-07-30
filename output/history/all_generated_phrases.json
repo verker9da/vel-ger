@@ -2639,7 +2639,37 @@
       "german": "Nur ein Schritt, du schaffst das.",
       "category": "Balance",
       "generated_at": "2026-07-30T15:08:42.846639"
+    },
+    {
+      "english": "Thank you, for the gift, and the smile.",
+      "german": "Danke, für das Geschenk, und dein Lächeln.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-30T20:13:30.242276"
+    },
+    {
+      "english": "I’m thankful, for your honest advice, friend.",
+      "german": "Ich bin dankbar, für deinen ehrlichen Rat, Freund.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-30T20:13:30.242285"
+    },
+    {
+      "english": "Thanks again, for your patience, with me.",
+      "german": "Danke nochmal, für deine Geduld, mit mir.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-30T20:13:30.242287"
+    },
+    {
+      "english": "I’m grateful, for this new start, today.",
+      "german": "Ich bin dankbar, für diesen Neuanfang, heute.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-30T20:13:30.242288"
+    },
+    {
+      "english": "Thank you, for believing in me, truly.",
+      "german": "Danke, dass du an mich glaubst, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-30T20:13:30.242289"
     }
   ],
-  "last_updated": "2026-07-30T15:08:42.846640"
+  "last_updated": "2026-07-30T20:13:30.242291"
 }
