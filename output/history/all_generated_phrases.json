@@ -2669,7 +2669,37 @@
       "german": "Danke, dass du an mich glaubst, wirklich.",
       "category": "Gratitude",
       "generated_at": "2026-07-30T20:13:30.242289"
+    },
+    {
+      "english": "I can pause, I can breathe, I’m okay.",
+      "german": "Ich kann pausieren, ich kann atmen, mir geht’s gut.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-30T22:59:42.250643"
+    },
+    {
+      "english": "Let your body relax, mind will follow.",
+      "german": "Lass deinen Körper ruhen, der Geist folgt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-30T22:59:42.250655"
+    },
+    {
+      "english": "No need to rush, calm is here.",
+      "german": "Du musst nicht hetzen, die Ruhe ist da.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-30T22:59:42.250657"
+    },
+    {
+      "english": "Trust the moment, soften your grip, smile.",
+      "german": "Vertraue dem Moment, löse deinen Griff, lächle.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-30T22:59:42.250658"
+    },
+    {
+      "english": "When noise rises, I return to silence.",
+      "german": "Wenn es laut wird, komme ich zur Stille zurück.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-30T22:59:42.250659"
     }
   ],
-  "last_updated": "2026-07-30T20:13:30.242291"
+  "last_updated": "2026-07-30T22:59:42.250660"
 }
