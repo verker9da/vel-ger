@@ -2789,7 +2789,37 @@
       "german": "Sanft drücken, konzentriert bleiben, stark enden.",
       "category": "Strength",
       "generated_at": "2026-07-31T17:43:22.803982"
+    },
+    {
+      "english": "Thanks for being here, really, always.",
+      "german": "Danke, dass du da bist, wirklich, immer.",
+      "category": "Friendship",
+      "generated_at": "2026-07-31T20:22:13.607977"
+    },
+    {
+      "english": "I trust you, we’ve got this, together.",
+      "german": "Ich vertraue dir, wir schaffen das, zusammen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-31T20:22:13.607989"
+    },
+    {
+      "english": "Laugh with me, even when things are hard.",
+      "german": "Lach mit mir, auch wenn es schwer ist.",
+      "category": "Friendship",
+      "generated_at": "2026-07-31T20:22:13.607990"
+    },
+    {
+      "english": "Call me anytime, I’ll pick up, fast.",
+      "german": "Ruf mich jederzeit an, ich bin gleich da.",
+      "category": "Friendship",
+      "generated_at": "2026-07-31T20:22:13.607991"
+    },
+    {
+      "english": "Your friendship means a lot, for me.",
+      "german": "Deine Freundschaft bedeutet viel, für mich.",
+      "category": "Friendship",
+      "generated_at": "2026-07-31T20:22:13.607992"
     }
   ],
-  "last_updated": "2026-07-31T17:43:22.803984"
+  "last_updated": "2026-07-31T20:22:13.607993"
 }
