@@ -2849,7 +2849,37 @@
       "german": "Schütze deine Energie, ruh dich oft, weiter.",
       "category": "Purpose",
       "generated_at": "2026-08-01T06:25:07.159337"
+    },
+    {
+      "english": "Say thank you, mean it, smile softly",
+      "german": "Sag danke, mein es so, lächle sanft",
+      "category": "Kindness",
+      "generated_at": "2026-08-01T14:25:13.032678"
+    },
+    {
+      "english": "Hold the door, please, let them pass",
+      "german": "Halte die Tür, bitte, lass sie durch",
+      "category": "Kindness",
+      "generated_at": "2026-08-01T14:25:13.032688"
+    },
+    {
+      "english": "Listen closely, be patient, take time",
+      "german": "Hör genau zu, sei geduldig, nimm dir Zeit",
+      "category": "Kindness",
+      "generated_at": "2026-08-01T14:25:13.032689"
+    },
+    {
+      "english": "Offer help gently, even when it's small",
+      "german": "Hilf freundlich, auch wenn es nur klein ist",
+      "category": "Kindness",
+      "generated_at": "2026-08-01T14:25:13.032690"
+    },
+    {
+      "english": "Share what you have, without keeping score",
+      "german": "Teil mit, ohne zu zählen, was bleibt",
+      "category": "Kindness",
+      "generated_at": "2026-08-01T14:25:13.032690"
     }
   ],
-  "last_updated": "2026-08-01T06:25:07.159339"
+  "last_updated": "2026-08-01T14:25:13.032694"
 }
