@@ -3539,7 +3539,37 @@
       "german": "Bleib freundlich, nimm Freude mit.",
       "category": "Joy",
       "generated_at": "2026-08-10T22:31:52.646525"
+    },
+    {
+      "english": "Pause, breathe, keep going, you can do it.",
+      "german": "Pause, atme, geh weiter, du schaffst das.",
+      "category": "Patience",
+      "generated_at": "2026-08-12T16:59:29.464876"
+    },
+    {
+      "english": "Slow down, let it grow, stay steady.",
+      "german": "Langsam, wachsen lassen, bleib ruhig.",
+      "category": "Patience",
+      "generated_at": "2026-08-12T16:59:29.464885"
+    },
+    {
+      "english": "Wait, listen, learn, then try again.",
+      "german": "Warte, hör zu, lern, dann probier’s nochmal.",
+      "category": "Patience",
+      "generated_at": "2026-08-12T16:59:29.464886"
+    },
+    {
+      "english": "Not now, soon, trust the process.",
+      "german": "Noch nicht, bald, vertrau dem Prozess.",
+      "category": "Patience",
+      "generated_at": "2026-08-12T16:59:29.464888"
+    },
+    {
+      "english": "Be patient, even when progress feels slow.",
+      "german": "Hab Geduld, auch wenn es langsam wirkt.",
+      "category": "Patience",
+      "generated_at": "2026-08-12T16:59:29.464889"
     }
   ],
-  "last_updated": "2026-08-10T22:31:52.646526"
+  "last_updated": "2026-08-12T16:59:29.464890"
 }
