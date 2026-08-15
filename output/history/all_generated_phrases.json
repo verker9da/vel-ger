@@ -3599,7 +3599,37 @@
       "german": "Bleib freundlich, nimm dir Zeit, geh voran.",
       "category": "Patience",
       "generated_at": "2026-08-14T16:58:03.236284"
+    },
+    {
+      "english": "Look ahead, ground yourself, calm down.",
+      "german": "Schau nach vorn, erde dich, beruhige dich.",
+      "category": "Balance",
+      "generated_at": "2026-08-15T16:29:10.714502"
+    },
+    {
+      "english": "Shoulders down, breathe out, let go.",
+      "german": "Schultern runter, atme aus, loslassen.",
+      "category": "Balance",
+      "generated_at": "2026-08-15T16:29:10.714514"
+    },
+    {
+      "english": "Even when it wobbles, stay kind.",
+      "german": "Auch wenn’s wankt, bleib freundlich, bleib da.",
+      "category": "Balance",
+      "generated_at": "2026-08-15T16:29:10.714516"
+    },
+    {
+      "english": "Pause now, feel your feet, breathe.",
+      "german": "Jetzt pausieren, spür deine Füße, atme.",
+      "category": "Balance",
+      "generated_at": "2026-08-15T16:29:10.714517"
+    },
+    {
+      "english": "Balance comes back, take another breath.",
+      "german": "Das Gleichgewicht kommt zurück, nimm noch einen Atemzug.",
+      "category": "Balance",
+      "generated_at": "2026-08-15T16:29:10.714518"
     }
   ],
-  "last_updated": "2026-08-14T16:58:03.236286"
+  "last_updated": "2026-08-15T16:29:10.714520"
 }
