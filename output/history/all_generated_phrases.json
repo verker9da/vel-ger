@@ -3629,7 +3629,37 @@
       "german": "Das Gleichgewicht kommt zurück, nimm noch einen Atemzug.",
       "category": "Balance",
       "generated_at": "2026-08-15T16:29:10.714518"
+    },
+    {
+      "english": "We listen well, then we cheer up.",
+      "german": "Wir hören zu, dann lachen wir wieder.",
+      "category": "Friendship",
+      "generated_at": "2026-08-16T16:29:21.310949"
+    },
+    {
+      "english": "Stay kind, I’ll stay close, always.",
+      "german": "Bleib freundlich, ich bleib nah, immer.",
+      "category": "Friendship",
+      "generated_at": "2026-08-16T16:29:21.310961"
+    },
+    {
+      "english": "No worries, I’m with you, step by step.",
+      "german": "Keine Sorgen, ich bin bei dir, Schritt für Schritt.",
+      "category": "Friendship",
+      "generated_at": "2026-08-16T16:29:21.310964"
+    },
+    {
+      "english": "We share dreams, and we keep going.",
+      "german": "Wir teilen Träume, und wir machen weiter.",
+      "category": "Friendship",
+      "generated_at": "2026-08-16T16:29:21.310966"
+    },
+    {
+      "english": "Friend, you make ordinary days brighter.",
+      "german": "Freund, du machst normale Tage heller.",
+      "category": "Friendship",
+      "generated_at": "2026-08-16T16:29:21.310969"
     }
   ],
-  "last_updated": "2026-08-15T16:29:10.714520"
+  "last_updated": "2026-08-16T16:29:21.310972"
 }
