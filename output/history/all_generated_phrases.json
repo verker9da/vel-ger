@@ -3659,7 +3659,37 @@
       "german": "Freund, du machst normale Tage heller.",
       "category": "Friendship",
       "generated_at": "2026-08-16T16:29:21.310969"
+    },
+    {
+      "english": "Try again, breathe deep, keep going.",
+      "german": "Versuch es erneut, atme tief, mach weiter.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-28T00:48:32.620166"
+    },
+    {
+      "english": "Small steps matter, every day counts.",
+      "german": "Kleine Schritte zählen, jeder Tag zählt.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-28T00:48:32.620175"
+    },
+    {
+      "english": "Learn from mistakes, grow stronger, today.",
+      "german": "Lerne aus Fehlern, werde stärker, heute.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-28T00:48:32.620177"
+    },
+    {
+      "english": "Your future listens, so speak kindly.",
+      "german": "Deine Zukunft hört zu, sprich freundlich.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-28T00:48:32.620178"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "german": "Konzentriere dich auf Fortschritt, nicht Perfektion.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-28T00:48:32.620179"
     }
   ],
-  "last_updated": "2026-08-16T16:29:21.310972"
+  "last_updated": "2026-08-28T00:48:32.620180"
 }
