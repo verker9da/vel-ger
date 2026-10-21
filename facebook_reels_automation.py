@@ -148,7 +148,7 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning German.
+            prompt = f"""Create {num_phrases * 3} unique {category_english} phrases for English speakers learning German.
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -156,6 +156,10 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 3. Use punctuation for breathing room in TTS
 4. Avoid long run-on sentences
 5. Each phrase should be speakable in 3-5 seconds
+
+CRITICAL: These phrases must be COMPLETELY NEW and DIFFERENT from common motivational phrases.
+- Avoid: "Believe in yourself", "Dream big", "Never give up", "Keep going", "Small steps"
+- Create: Fresh, original phrases with unique imagery, daily life observations, and metaphors.
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -165,7 +169,7 @@ For each phrase:
 Return as JSON array:
 [{{"english": "...", "german": "...", "pronunciation": "..."}}]
 
-IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before."""
+IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before. Be creative!"""
 
             payload = {
                 "model": AI_MODEL,
@@ -173,7 +177,8 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before."""
                     {"role": "system", "content": "You are a German teacher. Create short, natural phrases with pauses."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": 1.2,
+                "seed": random.randint(1, 1000000)
             }
 
             print(f"[content] 🤖 Calling AI (attempt {attempt + 1}/{max_attempts})...")
