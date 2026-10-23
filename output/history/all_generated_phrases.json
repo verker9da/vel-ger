@@ -4229,7 +4229,37 @@
       "german": "Ich wähle Handeln, statt Warten.",
       "category": "Confidence",
       "generated_at": "2026-10-23T18:15:39.094921"
+    },
+    {
+      "english": "Share laughs, pass the coffee, always warm.",
+      "german": "Teil Gelächter, reich Kaffee aus, immer warm.",
+      "category": "Friendship",
+      "generated_at": "2026-10-23T19:52:07.018533"
+    },
+    {
+      "english": "Your text arrives, my day brightens, quietly.",
+      "german": "Deine Nachricht kommt, mein Tag wird heller, still.",
+      "category": "Friendship",
+      "generated_at": "2026-10-23T19:52:07.018544"
+    },
+    {
+      "english": "Walk beside me, no speeches, just trust.",
+      "german": "Geh neben mir, keine Reden, nur Vertrauen.",
+      "category": "Friendship",
+      "generated_at": "2026-10-23T19:52:07.018545"
+    },
+    {
+      "english": "We trade stories, you listen, I breathe.",
+      "german": "Wir tauschen Geschichten, du hörst zu, ich atme.",
+      "category": "Friendship",
+      "generated_at": "2026-10-23T19:52:07.018546"
+    },
+    {
+      "english": "Hold my secrets, gently, until I’m ready.",
+      "german": "Halte meine Geheimnisse, behutsam, bis ich bereit bin.",
+      "category": "Friendship",
+      "generated_at": "2026-10-23T19:52:07.018546"
     }
   ],
-  "last_updated": "2026-10-23T18:15:39.094923"
+  "last_updated": "2026-10-23T19:52:07.018548"
 }
