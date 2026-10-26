@@ -4739,7 +4739,37 @@
       "german": "Draußen spazieren, die Gedanken lösen sich.",
       "category": "Happiness",
       "generated_at": "2026-10-26T18:22:40.490345"
+    },
+    {
+      "english": "Wait for calm, then speak your plan.",
+      "german": "Warte auf Ruhe, dann sag deinen Plan.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T21:33:01.807488"
+    },
+    {
+      "english": "Let the kettle sing, not rush.",
+      "german": "Lass den Wasserkocher singen, nicht hetzen.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T21:33:01.807499"
+    },
+    {
+      "english": "Tend the garden, time does its work.",
+      "german": "Pflege den Garten, Zeit macht alles fertig.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T21:33:01.807500"
+    },
+    {
+      "english": "Breathe, the sky will clear for you.",
+      "german": "Atme durch, der Himmel wird sich klären.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T21:33:01.807501"
+    },
+    {
+      "english": "Hold the door, even when waiting feels long.",
+      "german": "Halte die Tür, auch wenn Warten sticht.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T21:33:01.807502"
     }
   ],
-  "last_updated": "2026-10-26T18:22:40.490347"
+  "last_updated": "2026-10-26T21:33:01.807503"
 }
