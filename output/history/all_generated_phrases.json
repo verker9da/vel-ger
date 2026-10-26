@@ -4649,7 +4649,37 @@
       "german": "Eine Aufgabe ruht, die nächste wartet, du balancierst.",
       "category": "Balance",
       "generated_at": "2026-10-26T01:48:11.241601"
+    },
+    {
+      "english": "Morning sun, tidy one corner of life.",
+      "german": "Morgensonne, räum eine Ecke im Leben auf.",
+      "category": "Success",
+      "generated_at": "2026-10-26T08:11:33.956579"
+    },
+    {
+      "english": "Coffee brews, practice one useful sentence.",
+      "german": "Kaffee kocht, üb einen Satz für den Alltag.",
+      "category": "Success",
+      "generated_at": "2026-10-26T08:11:33.956588"
+    },
+    {
+      "english": "Old doubts fade, step into the next day.",
+      "german": "Alte Zweifel verblassen, geh in den nächsten Tag.",
+      "category": "Success",
+      "generated_at": "2026-10-26T08:11:33.956590"
+    },
+    {
+      "english": "Phone stays quiet, focus on one task.",
+      "german": "Das Handy schweigt, konzentrier dich auf eine Sache.",
+      "category": "Success",
+      "generated_at": "2026-10-26T08:11:33.956591"
+    },
+    {
+      "english": "Warm breath, write what matters today.",
+      "german": "Warmer Atem, schreib, was heute zählt.",
+      "category": "Success",
+      "generated_at": "2026-10-26T08:11:33.956592"
     }
   ],
-  "last_updated": "2026-10-26T01:48:11.241603"
+  "last_updated": "2026-10-26T08:11:33.956594"
 }
