@@ -4769,7 +4769,37 @@
       "german": "Halte die Tür, auch wenn Warten sticht.",
       "category": "Patience",
       "generated_at": "2026-10-26T21:33:01.807502"
+    },
+    {
+      "english": "I balance work, I breathe, I listen.",
+      "german": "Ich balanciere Arbeit, ich atme, ich höre zu.",
+      "category": "Balance",
+      "generated_at": "2026-10-26T23:23:44.763739"
+    },
+    {
+      "english": "Between messages, I slow down, gently.",
+      "german": "Zwischen Nachrichten, bremse ich, ganz sanft.",
+      "category": "Balance",
+      "generated_at": "2026-10-26T23:23:44.763748"
+    },
+    {
+      "english": "My day sways, then settles, calmly.",
+      "german": "Mein Tag schwankt, dann ruht er, ruhig.",
+      "category": "Balance",
+      "generated_at": "2026-10-26T23:23:44.763749"
+    },
+    {
+      "english": "I pour focus, not rush, today.",
+      "german": "Ich schenke Fokus ein, kein Hetzen, heute.",
+      "category": "Balance",
+      "generated_at": "2026-10-26T23:23:44.763751"
+    },
+    {
+      "english": "I trade hurry, for steady, warm breaths.",
+      "german": "Ich tausche Eile, gegen ruhige, warme Atemzüge.",
+      "category": "Balance",
+      "generated_at": "2026-10-26T23:23:44.763752"
     }
   ],
-  "last_updated": "2026-10-26T21:33:01.807503"
+  "last_updated": "2026-10-26T23:23:44.763753"
 }
