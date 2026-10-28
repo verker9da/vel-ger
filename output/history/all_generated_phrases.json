@@ -5099,7 +5099,37 @@
       "german": "Wind ins Gesicht, ich atme ruhiger",
       "category": "Happiness",
       "generated_at": "2026-10-28T17:25:34.575903"
+    },
+    {
+      "english": "My pace is enough, today.",
+      "german": "Mein Tempo reicht, heute.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T20:37:47.216848"
+    },
+    {
+      "english": "I can do it, one room at a time.",
+      "german": "Ich schaffe das, Zimmer für Zimmer.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T20:37:47.216860"
+    },
+    {
+      "english": "Mistakes inform me, not stop me.",
+      "german": "Fehler zeigen mir den Weg, nicht mein Ende.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T20:37:47.216861"
+    },
+    {
+      "english": "My voice warms up, bit by bit.",
+      "german": "Meine Stimme taut auf, Stück für Stück.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T20:37:47.216862"
+    },
+    {
+      "english": "I learn by trying, not by waiting.",
+      "german": "Ich lerne beim Probieren, nicht beim Warten.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T20:37:47.216863"
     }
   ],
-  "last_updated": "2026-10-28T17:25:34.575905"
+  "last_updated": "2026-10-28T20:37:47.216865"
 }
