@@ -5429,7 +5429,37 @@
       "german": "Wenn Notizen verschwimmen, schärfe ich sie langsam",
       "category": "Perseverance",
       "generated_at": "2026-10-30T20:12:43.919235"
+    },
+    {
+      "english": "Feel your feet, hold still, breathe slowly",
+      "german": "Spüre deine Füße, bleib still, atme langsam",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T23:18:27.385739"
+    },
+    {
+      "english": "Notice the room, soften your shoulders, exhale",
+      "german": "Beobachte den Raum, lass die Schultern locker, ausatmen",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T23:18:27.385748"
+    },
+    {
+      "english": "Listen inside, let the thoughts drift by",
+      "german": "Hör nach innen, lass Gedanken vorbeiziehen",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T23:18:27.385749"
+    },
+    {
+      "english": "Warm your hands, feel the present moment",
+      "german": "Wärme deine Hände, spüre den Jetzt-Moment",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T23:18:27.385750"
+    },
+    {
+      "english": "Unclench your jaw, relax your face, breathe",
+      "german": "Löse den Kiefer, entspanne dein Gesicht, atme",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T23:18:27.385752"
     }
   ],
-  "last_updated": "2026-10-30T20:12:43.919236"
+  "last_updated": "2026-10-30T23:18:27.385753"
 }
