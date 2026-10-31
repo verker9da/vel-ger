@@ -5579,7 +5579,37 @@
       "german": "Ich tausche Ausreden, gegen einen ehrlichen Versuch.",
       "category": "Purpose",
       "generated_at": "2026-10-31T16:23:10.579565"
+    },
+    {
+      "english": "I’m grateful for warm tea, today’s quiet comfort.",
+      "german": "Ich danke für warmen Tee, die stille Wärme heute.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T19:35:28.054415"
+    },
+    {
+      "english": "Thank you for the open window, fresh air.",
+      "german": "Danke für das offene Fenster, frische Luft.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T19:35:28.054425"
+    },
+    {
+      "english": "I notice sunrise light, and feel grateful.",
+      "german": "Ich sehe das Morgenlicht, und bin dankbar.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T19:35:28.054426"
+    },
+    {
+      "english": "Grateful for soft socks, my feet feel safe.",
+      "german": "Dankbar für weiche Socken, meine Füße sind geborgen.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T19:35:28.054428"
+    },
+    {
+      "english": "Thanks for honest friends, in ordinary days.",
+      "german": "Danke für ehrliche Freunde, in ganz normalen Tagen.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T19:35:28.054429"
     }
   ],
-  "last_updated": "2026-10-31T16:23:10.579566"
+  "last_updated": "2026-10-31T19:35:28.054431"
 }
