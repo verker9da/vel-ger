@@ -5789,7 +5789,37 @@
       "german": "Ich stolpere, ich finde zurück.",
       "category": "Confidence",
       "generated_at": "2026-11-01T19:56:51.191699"
+    },
+    {
+      "english": "Morning light, hope returns softly",
+      "german": "Morgenslicht, die Hoffnung kommt leise zurück",
+      "category": "Hope",
+      "generated_at": "2026-11-01T23:08:57.569105"
+    },
+    {
+      "english": "Coffee brews, plans warm up slowly",
+      "german": "Kaffee brodelt, Pläne werden langsam warm",
+      "category": "Hope",
+      "generated_at": "2026-11-01T23:08:57.569120"
+    },
+    {
+      "english": "Loose thread, I untangle it gently",
+      "german": "Lose Fäden, ich entwirre sie behutsam",
+      "category": "Hope",
+      "generated_at": "2026-11-01T23:08:57.569123"
+    },
+    {
+      "english": "The window opens, my future breathes",
+      "german": "Das Fenster geht auf, meine Zukunft atmet",
+      "category": "Hope",
+      "generated_at": "2026-11-01T23:08:57.569124"
+    },
+    {
+      "english": "A quiet page, hope writes back",
+      "german": "Eine stille Seite, die Hoffnung antwortet",
+      "category": "Hope",
+      "generated_at": "2026-11-01T23:08:57.569126"
     }
   ],
-  "last_updated": "2026-11-01T19:56:51.191701"
+  "last_updated": "2026-11-01T23:08:57.569128"
 }
