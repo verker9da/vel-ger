@@ -5759,7 +5759,37 @@
       "german": "Wäsche dreht sich, Blasen platzen, Freude kommt.",
       "category": "Joy",
       "generated_at": "2026-11-01T17:17:22.210078"
+    },
+    {
+      "english": "Today, I can handle this.",
+      "german": "Heute, ich schaffe das.",
+      "category": "Confidence",
+      "generated_at": "2026-11-01T19:56:51.191685"
+    },
+    {
+      "english": "I breathe first, then I act.",
+      "german": "Ich atme erst, dann handle ich.",
+      "category": "Confidence",
+      "generated_at": "2026-11-01T19:56:51.191695"
+    },
+    {
+      "english": "My mind, steady now, sharp later.",
+      "german": "Mein Kopf, erst ruhig, dann klar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-01T19:56:51.191697"
+    },
+    {
+      "english": "I speak up, I’m learning anyway.",
+      "german": "Ich melde mich, ich lerne trotzdem.",
+      "category": "Confidence",
+      "generated_at": "2026-11-01T19:56:51.191698"
+    },
+    {
+      "english": "I can stumble, I know the way.",
+      "german": "Ich stolpere, ich finde zurück.",
+      "category": "Confidence",
+      "generated_at": "2026-11-01T19:56:51.191699"
     }
   ],
-  "last_updated": "2026-11-01T17:17:22.210080"
+  "last_updated": "2026-11-01T19:56:51.191701"
 }
