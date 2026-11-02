@@ -3,12 +3,12 @@ name: Velocity german - Daily 5x Upload
 on:
   # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    - cron: '45 2 * * *'   # 4:45 AM Berlin / Europe Early
-    - cron: '15 7 * * *'   # 9:15 AM Berlin Morning Prime Time
-    - cron: '45 11 * * *'  # 1:45 PM Berlin Midday
-    - cron: '45 15 * * *'  # 5:45 PM Berlin Afternoon / Evening
+    #- cron: '45 2 * * *'   # 4:45 AM Berlin / Europe Early
+    #- cron: '15 7 * * *'   # 9:15 AM Berlin Morning Prime Time
+    #- cron: '45 11 * * *'  # 1:45 PM Berlin Midday
+   # - cron: '45 15 * * *'  # 5:45 PM Berlin Afternoon / Evening
     - cron: '45 19 * * *'  # 9:45 PM Berlin Prime Evening
-    - cron: '45 23 * * *'  # 1:45 AM Berlin / Americas Afternoon
+   # - cron: '45 23 * * *'  # 1:45 AM Berlin / Americas Afternoon
   # Allow manual trigger for testing
   workflow_dispatch:
 
