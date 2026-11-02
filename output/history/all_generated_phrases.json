@@ -5819,7 +5819,37 @@
       "german": "Eine stille Seite, die Hoffnung antwortet",
       "category": "Hope",
       "generated_at": "2026-11-01T23:08:57.569126"
+    },
+    {
+      "english": "Rain tests umbrellas, so you persist, calmly",
+      "german": "Regen prüft Schirme, also bleib dran, ruhig",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T02:47:05.052353"
+    },
+    {
+      "english": "Coffee cools fast, your effort stays, steady",
+      "german": "Kaffee wird schnell kalt, dein Einsatz bleibt, beständig",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T02:47:05.052363"
+    },
+    {
+      "english": "The page resists, you write again, today",
+      "german": "Die Seite wehrt sich, du schreibst nochmal, heute",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T02:47:05.052364"
+    },
+    {
+      "english": "Cold floors try you, you walk on, anyway",
+      "german": "Kaltes Parkett versucht dich, du gehst trotzdem weiter",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T02:47:05.052365"
+    },
+    {
+      "english": "Mist hides paths, you keep checking, slowly",
+      "german": "Nebel verdeckt Wege, du prüfst weiter, langsam",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T02:47:05.052366"
     }
   ],
-  "last_updated": "2026-11-01T23:08:57.569128"
+  "last_updated": "2026-11-02T02:47:05.052367"
 }
