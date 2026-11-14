@@ -6299,7 +6299,37 @@
       "german": "Heute ist machbar, nur eine Aufgabe.",
       "category": "Confidence",
       "generated_at": "2026-11-14T00:31:22.006382"
+    },
+    {
+      "english": "Tighten your knot, one calm breath.",
+      "german": "Zieh die Knoten fest, atme ruhig ein.",
+      "category": "Strength",
+      "generated_at": "2026-11-14T23:25:49.729657"
+    },
+    {
+      "english": "Shoulders down, focus on the next task.",
+      "german": "Schultern runter, konzentrier dich aufs Nächste.",
+      "category": "Strength",
+      "generated_at": "2026-11-14T23:25:49.729670"
+    },
+    {
+      "english": "Hold the pen, fight the fear.",
+      "german": "Nimm den Stift, besiege die Angst.",
+      "category": "Strength",
+      "generated_at": "2026-11-14T23:25:49.729672"
+    },
+    {
+      "english": "Straighten your back, let stress drift away.",
+      "german": "Richte den Rücken, lass den Stress vergehen.",
+      "category": "Strength",
+      "generated_at": "2026-11-14T23:25:49.729673"
+    },
+    {
+      "english": "Wash the dishes, keep your patience.",
+      "german": "Spüle das Geschirr, behalte Geduld.",
+      "category": "Strength",
+      "generated_at": "2026-11-14T23:25:49.729674"
     }
   ],
-  "last_updated": "2026-11-14T00:31:22.006384"
+  "last_updated": "2026-11-14T23:25:49.729676"
 }
