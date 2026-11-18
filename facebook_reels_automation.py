@@ -458,7 +458,7 @@ def configure_edge_tts():
         pass
 
 
-async def generate_single_audio(text: str, voice: str, output_path: str):
+async def generate_single_audio(text: str, voice: str, output_path: str, rate: str = "+0%"):
     """Generate audio using Edge TTS with active endpoint, retry, and fallback"""
     if not text or not str(text).strip():
         return False
@@ -466,7 +466,7 @@ async def generate_single_audio(text: str, voice: str, output_path: str):
     for attempt in range(3):
         try:
             import edge_tts
-            communicate = edge_tts.Communicate(str(text).strip(), voice)
+            communicate = edge_tts.Communicate(str(text).strip(), voice, rate=rate)
             await communicate.save(output_path)
             out = Path(output_path)
             if out.exists() and out.stat().st_size > 200:
@@ -518,7 +518,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             subprocess.run(cmd, capture_output=True)
 
         # Generate German audio
-        de_success = asyncio.run(generate_single_audio(phrase["german"], GERMAN_VOICE, str(german_file)))
+        de_success = asyncio.run(generate_single_audio(phrase["german"], GERMAN_VOICE, str(german_file), rate="-10%"))
         if de_success:
             print(f"    ✓ German: {german_file.name}")
         else:
