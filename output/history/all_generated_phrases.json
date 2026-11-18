@@ -6419,7 +6419,42 @@
       "german": "Halte die Tür, dann dein Tempo wählen.",
       "category": "Strength",
       "generated_at": "2026-11-18T01:54:33.410591"
+    },
+    {
+      "english": "I can wait, it’s getting better.",
+      "german": "Ich kann warten, es wird besser.",
+      "transliteration": "ikh kann warten, es wird bes-ser.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T07:54:23.992509"
+    },
+    {
+      "english": "Give it room, don’t force answers.",
+      "german": "Gib ihm Raum, zwinge keine Antworten.",
+      "transliteration": "gib ihm roum, zwinge kei-ne antwort-en.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T07:54:23.992519"
+    },
+    {
+      "english": "Take your time, the world won’t end.",
+      "german": "Nimm dir Zeit, die Welt geht nicht unter.",
+      "transliteration": "nimm dir tsait, die velt geht nicht un-ter.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T07:54:23.992521"
+    },
+    {
+      "english": "Bide your moment, then act kindly.",
+      "german": "Warte deinen Moment, dann handle freundlich.",
+      "transliteration": "var-te dei-nen mo-ment, dann han-dele freund-lich.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T07:54:23.992523"
+    },
+    {
+      "english": "Let the delay teach you patience.",
+      "german": "Lass die Verzögerung Geduld lehren.",
+      "transliteration": "lass die ver-zö-ge-rung ge-duld leh-ren.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T07:54:23.992524"
     }
   ],
-  "last_updated": "2026-11-18T01:54:33.410593"
+  "last_updated": "2026-11-18T07:54:23.992526"
 }
