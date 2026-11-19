@@ -6454,7 +6454,42 @@
       "transliteration": "lass die ver-zö-ge-rung ge-duld leh-ren.",
       "category": "Patience",
       "generated_at": "2026-11-18T07:54:23.992524"
+    },
+    {
+      "english": "I updated my phone today, wow.",
+      "german": "Ich habe heute mein Handy aktualisiert, wow.",
+      "transliteration": "Ih habe heüte mein han-di aktualisiert, wow.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T01:31:21.576508"
+    },
+    {
+      "english": "The Wi‑Fi is acting weird right now.",
+      "german": "Das WLAN spinnt gerade ein bisschen.",
+      "transliteration": "Das Vee-lan spinnt ge-rä-dein bis-schen.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T01:31:21.576520"
+    },
+    {
+      "english": "Can you share your password, please?",
+      "german": "Kannst du dein Passwort teilen, bitte?",
+      "transliteration": "Kannst du dein pass-word tei-len, bit-te?",
+      "category": "Technology",
+      "generated_at": "2026-11-19T01:31:21.576522"
+    },
+    {
+      "english": "My phone battery is dying fast.",
+      "german": "Mein Handy-Akku ist schnell leer.",
+      "transliteration": "Mein han-di ak-ku ist schnell leer.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T01:31:21.576523"
+    },
+    {
+      "english": "I forgot my password again, oops.",
+      "german": "Ich hab mein Passwort schon wieder vergessen, ups.",
+      "transliteration": "Ih hab mein pass-word schon wie-der ver-gessen, ups.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T01:31:21.576524"
     }
   ],
-  "last_updated": "2026-11-18T07:54:23.992526"
+  "last_updated": "2026-11-19T01:31:21.576526"
 }
