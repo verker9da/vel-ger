@@ -6524,7 +6524,42 @@
       "transliteration": "sag es ein-fach, und steh da-zu",
       "category": "Wisdom",
       "generated_at": "2026-11-20T01:27:55.832966"
+    },
+    {
+      "english": "Thanks for your help today, genuinely.",
+      "german": "Danke für deine Hilfe heute, wirklich.",
+      "transliteration": "Dan-ke für dei-ne Hil-fe heu-te, virk-lich.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T00:58:14.434420"
+    },
+    {
+      "english": "I appreciate your time, it helped me.",
+      "german": "Ich schätze deine Zeit, sie hat mir geholfen.",
+      "transliteration": "Ich schät-ze dei-ne Zeit, sie hat mir ge-hol-fen.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T00:58:14.434431"
+    },
+    {
+      "english": "Thank you for listening, I feel lighter.",
+      "german": "Danke fürs Zuhören, ich fühle mich leichter.",
+      "transliteration": "Dan-ke fürs Zu-hö-ren, ich füh-le mich leich-ter.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T00:58:14.434433"
+    },
+    {
+      "english": "Thanks for the quick answer, really.",
+      "german": "Danke für die schnelle Antwort, wirklich.",
+      "transliteration": "Dan-ke für die schnel-le Ant-wort, wirk-lich.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T00:58:14.434434"
+    },
+    {
+      "english": "I’m grateful you checked in on me.",
+      "german": "Ich bin dir dankbar, dass du nach mir siehst.",
+      "transliteration": "Ich bin dir dank-bar, dass du nach mir siehts.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T00:58:14.434436"
     }
   ],
-  "last_updated": "2026-11-20T01:27:55.832969"
+  "last_updated": "2026-11-21T00:58:14.434437"
 }
