@@ -6559,7 +6559,42 @@
       "transliteration": "Ich bin dir dank-bar, dass du nach mir siehts.",
       "category": "Gratitude",
       "generated_at": "2026-11-21T00:58:14.434436"
+    },
+    {
+      "english": "I want to speak German confidently.",
+      "german": "Ich möchte Deutsch sicher sprechen.",
+      "transliteration": "ikh möch-tuh deutsh sik-er spre-chen",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T23:56:37.907411"
+    },
+    {
+      "english": "I study a little, then I relax.",
+      "german": "Ich lerne kurz, dann bin ich ruhig.",
+      "transliteration": "ikh ler-nuh kurz dann bin ikh ru-ig",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T23:56:37.907422"
+    },
+    {
+      "english": "Today, I learn from my mistakes.",
+      "german": "Heute lerne ich aus Fehlern.",
+      "transliteration": "hoi-teh ler-nuh ikh aus feh-lern",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T23:56:37.907423"
+    },
+    {
+      "english": "I practice listening, even when it's hard.",
+      "german": "Ich übe Zuhören, auch wenn es schwer ist.",
+      "transliteration": "ikh ü-buh zu-hö-ren aukh wenn es shvë- er-ist",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T23:56:37.907424"
+    },
+    {
+      "english": "I read slowly, so I understand.",
+      "german": "Ich lese langsam, damit ich es verstehe.",
+      "transliteration": "ikh lee-zeh lang-sam da-mit ikh es fer-steh-eh",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T23:56:37.907425"
     }
   ],
-  "last_updated": "2026-11-21T00:58:14.434437"
+  "last_updated": "2026-11-21T23:56:37.907427"
 }
