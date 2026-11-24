@@ -6629,7 +6629,42 @@
       "transliteration": "Wir reden, und mein Kopf wird ruhig.",
       "category": "Friendship",
       "generated_at": "2026-11-23T00:30:49.343642"
+    },
+    {
+      "english": "Use gentle words, it matters.",
+      "german": "Sprich sanft, es zählt.",
+      "transliteration": "Shprech sanft, es zählt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:28:28.030405"
+    },
+    {
+      "english": "Thank them, truly, for small things.",
+      "german": "Danke ihnen, wirklich, für Kleinigkeiten.",
+      "transliteration": "Danke ihnen, wirklich, für Klei-nig-kei-ten.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:28:28.030416"
+    },
+    {
+      "english": "Let them finish, don’t interrupt.",
+      "german": "Lass sie ausreden, unterbreche nicht.",
+      "transliteration": "Lass sie aus-re-den, un-ter-bre-che nicht.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:28:28.030418"
+    },
+    {
+      "english": "Offer a smile, even when busy.",
+      "german": "Schenk ihnen ein Lächeln, auch wenn du忙 bist.",
+      "transliteration": "Schenk ihnen ein Lächeln, auch wenn du busy bist.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:28:28.030420"
+    },
+    {
+      "english": "Apologize fast, then move on.",
+      "german": "Entschuldige dich schnell, dann weiter.",
+      "transliteration": "Ent-schul-di-ge dich schnell, dann weiter.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:28:28.030421"
     }
   ],
-  "last_updated": "2026-11-23T00:30:49.343644"
+  "last_updated": "2026-11-24T04:28:28.030423"
 }
