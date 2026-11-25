@@ -6664,7 +6664,42 @@
       "transliteration": "Ent-schul-di-ge dich schnell, dann weiter.",
       "category": "Kindness",
       "generated_at": "2026-11-24T04:28:28.030421"
+    },
+    {
+      "english": "Where can I find size six?",
+      "german": "Wo finde ich Größe sechs?",
+      "transliteration": "Wo finde ich Grosse sechs?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T03:11:28.045918"
+    },
+    {
+      "english": "Do you have this in black?",
+      "german": "Haben Sie das auch in Schwarz?",
+      "transliteration": "Haben Sie das auch in Schwarz?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T03:11:28.045929"
+    },
+    {
+      "english": "How much does it cost?",
+      "german": "Wie viel kostet das?",
+      "transliteration": "Wie viel kostet das?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T03:11:28.045931"
+    },
+    {
+      "english": "Can I try it on, please?",
+      "german": "Kann ich das bitte anprobieren?",
+      "transliteration": "Kann ich das bitte anprobieren?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T03:11:28.045932"
+    },
+    {
+      "english": "Is there a discount today?",
+      "german": "Gibt es heute einen Rabatt?",
+      "transliteration": "Gibt es heute einen Rabatt?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T03:11:28.045933"
     }
   ],
-  "last_updated": "2026-11-24T04:28:28.030423"
+  "last_updated": "2026-11-25T03:11:28.045935"
 }
