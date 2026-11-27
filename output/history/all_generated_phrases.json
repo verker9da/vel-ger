@@ -6734,7 +6734,28 @@
       "transliteration": "Geh langsamer, be-merk, vas um dich ist",
       "category": "Positive Life",
       "generated_at": "2026-11-26T02:28:11.272525"
+    },
+    {
+      "english": "I’ll play soccer after work, tonight.",
+      "german": "Ich spiel heute Abend nach der Arbeit Fußball.",
+      "transliteration": "Ich shpiel heute abend nach der arbeit fußball",
+      "category": "Sports",
+      "generated_at": "2026-11-27T11:31:15.050131"
+    },
+    {
+      "english": "Can you teach me that basketball move?",
+      "german": "Kannst du mir diesen Basketball-Trick zeigen?",
+      "transliteration": "Kannst du mir diesen basketball-trick zeigen",
+      "category": "Sports",
+      "generated_at": "2026-11-27T11:31:15.050142"
+    },
+    {
+      "english": "That was an amazing goal, wow!",
+      "german": "Das war ein Wahnsinnstor, wow!",
+      "transliteration": "Das war ein wahnsinnstor wow",
+      "category": "Sports",
+      "generated_at": "2026-11-27T11:31:15.050144"
     }
   ],
-  "last_updated": "2026-11-26T02:28:11.272527"
+  "last_updated": "2026-11-27T11:31:15.050146"
 }
