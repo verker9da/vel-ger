@@ -6776,7 +6776,28 @@
       "transliteration": "Auf-RÄu-men, un ich füh-le mich LÄich-ter",
       "category": "Happiness",
       "generated_at": "2026-11-27T19:21:03.791776"
+    },
+    {
+      "english": "Excuse me, where is the station?",
+      "german": "Entschuldigung, wo ist der Bahnhof?",
+      "transliteration": "En t-SCHUL-di-gung, wo ist der BAHN-hof?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-28T03:42:27.111064"
+    },
+    {
+      "english": "Thanks a lot, that really helps!",
+      "german": "Vielen Dank, das hilft wirklich!",
+      "transliteration": "FI-le n DANK, das hILFT wirk-lich!",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-28T03:42:27.111076"
+    },
+    {
+      "english": "I’m sorry, I didn’t mean it.",
+      "german": "Es tut mir leid, das war nicht so gemeint.",
+      "transliteration": "Es tut mir LIED, das WAR nicht so GE-meint.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-28T03:42:27.111078"
     }
   ],
-  "last_updated": "2026-11-27T19:21:03.791778"
+  "last_updated": "2026-11-28T03:42:27.111079"
 }
