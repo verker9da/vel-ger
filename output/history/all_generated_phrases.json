@@ -6797,7 +6797,28 @@
       "transliteration": "Es tut mir LIED, das WAR nicht so GE-meint.",
       "category": "Common Expressions",
       "generated_at": "2026-11-28T03:42:27.111078"
+    },
+    {
+      "english": "You can handle today, bit by bit.",
+      "german": "Du schaffst den Tag, Schritt für Schritt.",
+      "transliteration": "Du schaffst den Tag, Schrit-für-Schrit.",
+      "category": "Strength",
+      "generated_at": "2026-11-28T11:00:29.289271"
+    },
+    {
+      "english": "Keep going, even when it’s messy.",
+      "german": "Mach weiter, auch wenn es chaotisch ist.",
+      "transliteration": "Mach weiter, auch wenn es chaotisch ist.",
+      "category": "Strength",
+      "generated_at": "2026-11-28T11:00:29.289283"
+    },
+    {
+      "english": "Breathe, then choose the kinder option.",
+      "german": "Atme ein, dann entscheide dich milder.",
+      "transliteration": "Atme ein, dann entscheide dich mild-er.",
+      "category": "Strength",
+      "generated_at": "2026-11-28T11:00:29.289285"
     }
   ],
-  "last_updated": "2026-11-28T03:42:27.111079"
+  "last_updated": "2026-11-28T11:00:29.289286"
 }
